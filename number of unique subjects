@@ -1,0 +1,12 @@
+today i solved this problem
+#leetcode 2356 number of unique subjects taught by each teacher
+it was easy i just used the count method AND group by teacher_id
+
+
+
+#code
+
+
+select teacher_id ,count(distinct subject_id) as cnt 
+from teacher
+group by teacher_id
