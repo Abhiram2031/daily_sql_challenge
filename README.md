@@ -1,1 +1,1 @@
-# daily_sql_challenge
+# sql_challenge
